@@ -1,11 +1,9 @@
 # Forward_MT1D
 1D Magnetotelluric Forward Modelling (Python)
 
-Reference: https://www.digitalearthlab.com/tutorial/tutorial-1d-mt-forward/
->
-Sampel:
->
-3 layer resistivity model (K-type)
+>Reference: https://www.digitalearthlab.com/tutorial/tutorial-1d-mt-forward/
+>Sampel:
+>3 layer resistivity model (K-type)
 
 Rho 1 : 100 Ohm.m   ||  Thickness 1 : 500 m
 
