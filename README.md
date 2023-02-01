@@ -12,4 +12,6 @@ Rho 2 : 1000 Ohm.m  ||  Thickness 1 : 1000 m
 
 Rho 3 : 10 Ohm.m    ||  Thickness 3 : Inf
 
+Periods range : 10^-3 to 10^3 Hz
+
 ![image](https://user-images.githubusercontent.com/113156229/216020167-8a0da6a8-e035-4af2-ac64-919f6461ca9c.png)
