@@ -14,4 +14,4 @@ Rho 3 : 10 Ohm.m    ||  Thickness 3 : Inf
 
 Periods range : 10^-3 to 10^4 sec
 
-![image](https://user-images.githubusercontent.com/113156229/216020167-8a0da6a8-e035-4af2-ac64-919f6461ca9c.png)
+![image](1D_MT_Model_1.png)
